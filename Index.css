@@ -1,0 +1,14 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizeing:border-box;
+}
+.c1{
+     display:flex;
+      text-align:center;
+      justify-content:center;
+  background-color:lightgrey;
+}
+.c2{
+    align-items:center;
+}
